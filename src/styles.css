@@ -1,0 +1,75 @@
+h1 {
+  color: #fd3a69;
+  font-size: 100px;
+  text-align: left;
+  margin: -15px 20px 0px 20px;
+}
+
+h2 {
+  color: #ff7a00;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 15px;
+  text-transform: uppercase;
+}
+h3 {
+  color: #9ecca4;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+h5 {
+  color: #ff7a00;
+  font-size: 160px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 78px;
+}
+p {
+  padding: 5px;
+}
+
+.week-weather {
+  color: #8e7f7f;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+  margin-top: -20px;
+  text-transform: uppercase;
+}
+.search-field {
+  margin: 10px;
+  padding-right: 30px;
+}
+
+.week-icon {
+  color: #fff;
+  font-size: 36px;
+  display: block;
+  margin: 0 auto;
+}
+.background-card {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace1f9 100%);
+  width: 420px;
+  height: 600px;
+}
+.units {
+  color: #8e7f7f;
+  font-size: 12px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.hours-minutes {
+  color: #8e7f7f;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+}
+.submit-button {
+  margin-right: 5px;
+}
+#city-input {
+  width: 160px;
+  padding: 5px;
+}
